@@ -1,0 +1,14 @@
+*.exe
+*.db
+*.log
+*.pdb
+*.exe
+*.idb
+*.ilk
+*.user
+*.o
+x64/
+.vs/
+[Rr]elease/
+[Dd]ebug/
+.vscode/
